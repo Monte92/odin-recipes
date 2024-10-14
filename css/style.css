@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+body{
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+}
+
+.container{
+    background-color: hsla(0, 0%, 71%, 0.4);
+    border-radius: 15px;
+    
+}
+
+p {
+    background-color: hsla(0, 0%, 89%, 0.4);
+    border-radius: 15px;
+    
+}
+
+.intro{
+    font-size: 25px;
+
+}
+
+li {
+    list-style: none;
+    font-size: 18px;
+}
+
+a {
+    font-size: 22px;
+    text-decoration: none;
+    font-style: oblique;
+}
